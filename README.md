@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @shinbergen
+- 👀 I’m interested in UI/UX, Grahic Design and Frontend Development
+- 🌱 I’m currently learning Fronend.
+- 📫 How to reach me - @shinbergen in telegram.
